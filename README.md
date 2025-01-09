@@ -1,4 +1,4 @@
-## GitHub Report for E. coli Classification
+## E. coli Classification
 
 ### Project Overview
 This project involves the classification of E. coli using a binary classification model developed in Python within Jupyter Notebook. The project leverages transfer learning with the ResNet50 model, achieving high accuracy in detecting E. coli from microscopic images. The implementation integrates data augmentation, model customization, and GUI-based practical applications.
