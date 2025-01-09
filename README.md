@@ -84,3 +84,12 @@ Use the interface to load images, and the application will display predictions a
 ### Conclusion
 The E. coli binary classification project demonstrates effective use of transfer learning and practical applications with GUI integration. Uploading the project with this structure will facilitate its accessibility and usability for others in the field.
 
+---
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
+
