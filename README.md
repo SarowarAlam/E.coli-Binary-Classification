@@ -81,16 +81,6 @@ python src/gui_application.py
 ```
 Use the interface to load images, and the application will display predictions and a summary of results.
 
-## License
-MIT License
-```
-
-### Next Steps
-1. **Upload Files**: Transfer `.ipynb` and source files to the repository.
-2. **Enhance Documentation**: Add detailed comments and usage instructions.
-3. **Extend GUI**: Include options for dataset selection and real-time model updates.
-4. **Optimize Model**: Experiment with additional architectures for higher accuracy.
-
 ### Conclusion
 The E. coli binary classification project demonstrates effective use of transfer learning and practical applications with GUI integration. Uploading the project with this structure will facilitate its accessibility and usability for others in the field.
 
